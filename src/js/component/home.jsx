@@ -8,7 +8,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Home = () => {
 	return (
 		<div className="text-center">
-			<h1>ESPACIOS DISPONIBLES:</h1>
+			<h1>ESPACIOS OCUPADOS:</h1>
 			<br></br>
 			<div class="container text-center ">
 				<div class="row justify-content-around">
